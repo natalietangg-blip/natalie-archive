@@ -1,3 +1,4 @@
+'use client'
 import { Entry, ColourPalette, PhotoSection, ResearchItem } from '@/lib/supabase'
 import { useEffect, useState } from 'react'
 
